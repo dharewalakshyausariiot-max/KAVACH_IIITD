@@ -1,0 +1,16 @@
+# Environment variables and secrets
+.env
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Local data and vault fallback
+data/
